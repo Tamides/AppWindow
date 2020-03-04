@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e7710a5-d42e-4940-bebd-fe3dd127422d" name="Default Changelist" comment="" />
+    <list default="true" id="0e7710a5-d42e-4940-bebd-fe3dd127422d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_30_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppWindow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AppWindow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/tamides/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/tamides/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YR4Kwg33fVd5tQZVplijeUczRr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -27,6 +50,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,9 +70,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="761" y="346" key="SettingsEditor" timestamp="1582892055856">
+    <state x="1088" y="430" width="440" height="554" key="#com.intellij.ide.util.MemberChooser" timestamp="1583243840975">
       <screen x="0" y="28" width="2560" height="1366" />
     </state>
-    <state x="761" y="346" key="SettingsEditor/0.28.2560.1366@0.28.2560.1366" timestamp="1582892055856" />
+    <state x="1088" y="430" width="440" height="554" key="#com.intellij.ide.util.MemberChooser/0.28.2560.1366@0.28.2560.1366" timestamp="1583243840975" />
+    <state x="1038" y="359" key="#xdebugger.evaluate" timestamp="1583324933019">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state x="1038" y="359" key="#xdebugger.evaluate/0.28.2560.1366@0.28.2560.1366" timestamp="1583324933019" />
+    <state width="2510" height="456" key="GridCell.Tab.0.bottom" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.0.bottom/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.0.center" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.0.center/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.0.left" timestamp="1583329192176">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.0.left/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192176" />
+    <state width="2510" height="456" key="GridCell.Tab.0.right" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.0.right/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.1.bottom" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.1.bottom/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.1.center" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.1.center/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.1.left" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.1.left/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state width="2510" height="456" key="GridCell.Tab.1.right" timestamp="1583329192177">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state width="2510" height="456" key="GridCell.Tab.1.right/0.28.2560.1366@0.28.2560.1366" timestamp="1583329192177" />
+    <state x="761" y="346" key="SettingsEditor" timestamp="1582895647113">
+      <screen x="0" y="28" width="2560" height="1366" />
+    </state>
+    <state x="761" y="346" key="SettingsEditor/0.28.2560.1366@0.28.2560.1366" timestamp="1582895647113" />
   </component>
 </project>
